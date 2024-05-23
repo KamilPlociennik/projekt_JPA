@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.wsb.dao.PatientRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.957 s <<< FAILURE! - in com.wsb.dao.PatientRepositoryTest
+com.wsb.dao.PatientRepositoryTest  Time elapsed: 0.952 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
